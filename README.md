@@ -24,6 +24,7 @@ and so on :)
 
 - `-m string` / `--match string` only returns user agents matching `string`
 - `-f string` / `--filter string` excludes user agents matching `string`
+
 Both arguments can be passed several times.
 
 ### Cool!
