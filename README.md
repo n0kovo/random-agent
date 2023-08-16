@@ -22,6 +22,9 @@
   ```
 and so on :)
 
+- `-m string` / `--match string` only returns user agents matching `string`
+- `-f string` / `--filter string` excludes user agents matching `string`
+
 ### Cool!
 Right?? Run this and you're good to Go:
 ```shell
