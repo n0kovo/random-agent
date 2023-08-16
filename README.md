@@ -6,7 +6,7 @@
 ### Why?
  Many web security tools have a `--random-agent` feature.<br>
  However, some don't, and I find that annoying.<br>
- This solves that problem.
+ This solves that problem ✨
 
 ### How?
 - ```shell
